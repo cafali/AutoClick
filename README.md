@@ -6,4 +6,4 @@ Auto Mouse Clicker for Windows
 
 Default 4000ms
 
-![Autoc](https://github.com/cafali/AutoClick/assets/77307171/4e503fec-dad2-41cb-af4d-7dd07570fd03)
+![Untitled](https://github.com/cafali/AutoClick/assets/77307171/a24be5f5-da83-43a1-a44a-d7f517496f43)
